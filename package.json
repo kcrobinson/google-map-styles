@@ -1,0 +1,11 @@
+{
+  "name": "google-map-styles",
+  "version": "1.0.0",
+  "description": "Transform map styles into consumable data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Parker-Robinson",
+  "license": "ISC"
+}
